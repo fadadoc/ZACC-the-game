@@ -4,8 +4,7 @@ ZACC é um jogo de tabuleiro desenvolvido durante o primeiro período do curso d
 
 ## Colaboradores
 
-$${\color{blue}hey}$$
-- <font color="purple">João Douglas</font>
+- <font">$${\color{blue}João Douglas}$$</font>
 - <h2 color=blue>Paulo Victor</font>
 - <font color='pink'>Marcos Eduardo</font>
 
