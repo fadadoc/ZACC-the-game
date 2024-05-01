@@ -4,8 +4,10 @@ ZACC é um jogo de tabuleiro desenvolvido durante o primeiro período do curso d
 
 ## Colaboradores
 
-<p>$${\color{lightblue}João \space Douglas}$$</p>
-<p>$${\color{purple}Marcos \space Eduardo}$$</p>
-<p>$${\color{deeppink}Paulo \space Vitor}$$</p>
+<div align=left>
+  <p>$${\color{lightblue}João \space Douglas}$$</p>
+  <p>$${\color{purple}Marcos \space Eduardo}$$</p>
+  <p>$${\color{deeppink}Paulo \space Vitor}$$</p>
+</div>
 
 ![Imagem do Jogo ZACC](https://github.com/fadadoc/ZACC-the-game/assets/138242492/b1b0161b-a894-451d-a1f3-e08fcad92f89)
